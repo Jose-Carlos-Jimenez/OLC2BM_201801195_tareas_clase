@@ -1,0 +1,24 @@
+{
+  "name": "OLC2BM_201801195_tareas_clase",
+  "version": "1.0.0",
+  "description": "Repositorio para tareas del curso de Organización de lenguajes y compiladores 2.",
+  "main": "Actions.js",
+  "dependencies": {
+    "jison": "^0.4.18"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jose-Carlos-Jimenez/OLC2BM_201801195_tareas_clase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jose-Carlos-Jimenez/OLC2BM_201801195_tareas_clase/issues"
+  },
+  "homepage": "https://github.com/Jose-Carlos-Jimenez/OLC2BM_201801195_tareas_clase#readme"
+}
